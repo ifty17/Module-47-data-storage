@@ -1,0 +1,38 @@
+[
+  {
+    "id": "632ecc578fa36e753d52401d",
+    "price": 432,
+    "eyeColor": "brown",
+    "name": "Cleo Hays"
+  },
+  {
+    "id": "632ecc57fade356bb1b85865",
+    "price": 357,
+    "eyeColor": "brown",
+    "name": "Oneal Lara"
+  },
+  {
+    "id": "632ecc577978afec8fb6ff42",
+    "price": 565,
+    "eyeColor": "green",
+    "name": "Charles Fry"
+  },
+  {
+    "id": "632ecc57e34be2ba679c5cde",
+    "price": 546,
+    "eyeColor": "blue",
+    "name": "Adele Reeves"
+  },
+  {
+    "id": "632ecc57b31ebd3a0ec28aec",
+    "price": 146,
+    "eyeColor": "blue",
+    "name": "Bonita Hartman"
+  },
+  {
+    "id": "632ecc57523a324b8d303afa",
+    "price": 455,
+    "eyeColor": "green",
+    "name": "Williamson Kane"
+  }
+]
